@@ -20,6 +20,8 @@ Searching app with the iTunes API
 
 ## Serving the static app
 
+- in terminal cd into the `client` folder.
+  - run `npm run build` to build the app
 - in terminal cd into `server` folder.
   - run `npm i` to install dependencies
   - run npm start
