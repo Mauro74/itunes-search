@@ -10,6 +10,10 @@ Searching app with the iTunes API
 
 - Stack: React, Redux, Typescript, Styled Components, Material UI
 
+## Server
+
+- Stack: Node.js, Express
+
 ## Running the client app
 
 - in terminal cd into the `client` folder.
