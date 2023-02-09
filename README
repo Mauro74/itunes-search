@@ -16,7 +16,7 @@ Searching app with the iTunes API
   - run `npm i` to install dependencies
   - run `npm start`
   - open browser on http://localhost:3000
-- There are some snapshot test and some unit test for the reducer. Ran out of time to test the action
+- There are some snapshot test and some unit test for the reducer. Ran out of time to test the actions
 
 ## Serving the static app
 
